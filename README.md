@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheAnkitRai
 - 👀 I’m interested in Data Science and Analytics, Machine Learning and Artificial Intelligence.
-- 🌱 I’m currently pursuing Master of Technology in Data Science at Jawaharlal Nehru University, New Delhi.
+- 🌱 I’m currently pursuing PhD in Computer Science and Engineering at Indian Institute of Technology(IIT) Roorkee, India.
 - 💞️ I’m looking to collaborate on various projects that involves Python, Machine Learning and Data Science and Analytics.
 - 📫 You can reach me through my [email id](ankitrai372000@gmail.com) and [LinkedIn](www.linkedin.com/in/the-ankitrai).
 
